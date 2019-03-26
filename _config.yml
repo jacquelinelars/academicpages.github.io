@@ -64,9 +64,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jacqueline Serigos"
+  name             : &name
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor at George Mason University"
   location         : "Silver Spring, MD"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Wi6IN7UAAAAJ&hl=en"
