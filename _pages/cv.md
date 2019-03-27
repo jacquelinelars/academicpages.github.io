@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Anthropology, Emory University, 2009
+* M.A. in Hispanic Linguistics, University of Texas at Austin, 2014
+* Ph.D in Hispanic Linguistics, University of Texas at Austin, 2017 (expected)
 
 Work experience
 ======
