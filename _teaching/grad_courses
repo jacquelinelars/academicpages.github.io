@@ -1,7 +1,7 @@
 ---
 title: "Graduate Courses"
 collection: teaching
-type: "Undergraduate course"
+type:
 permalink: /teaching/grad_courses
 venue: "George Mason University, Modern and Classical Languages"
 location: "Fairfax, Va"
