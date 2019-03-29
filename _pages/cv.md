@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.A. in Anthropology, Emory University, 2009
+* Ph.D in Hispanic Linguistics, University of Texas at Austin, 2017
+  * Dissertation: Adapting Corpus and Computational Methods for Loanword Research: New Approaches to Anglicisms in Spanish, Defended April, 2017
+  * Committee: Almeida Jacqueline Toribio (co-director), Barbara Bullock (co-director), Dale Koike, Katrin Erk, Stefan Gries
 * M.A. in Hispanic Linguistics, University of Texas at Austin, 2014
-* Ph.D in Hispanic Linguistics, University of Texas at Austin, 2017 (expected)
+* B.A. in Anthropology, Emory University, 2009
+* Study Abroad in Argentina, Universidad Torcuato Di Tella & Universidad de Buenos Aires, 2008
 
-Work experience
+
+
+Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, Department of Modern and Classical Languages, George Mason University, Fall 2018 - Present
+* Writing Consultant, University Writing Center, University of Texas at Austin, Fall 2015
+* Assistant Instructor, Department of Spanish and Portuguese, University of Texas at Austin, Fall 2013 - Spring 2015
+* Teaching Assistant, Department of Spanish and Portuguese, University of Texas at Austin, Fall 2011- Spring 2013
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Languages
+  * English: Native
+  * Spanish: Near-Native
+  * Italian: Basic Knowledge
+* Data Analysis
+  * Python: Corpus linguistics and natural language processing
+  * R: Statistical analysis
+    * Correlation and Regression - completed Datacamp course
+    * Multiple and Logistic Regression - completed Datacamp course
+    * Introduction to the Tidyverse - completed Datacamp cours
+  * Praat: Phonetic analysis
 
 Publications
 ======
@@ -56,4 +62,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Committee Member, Graduate Studies Committee at George Mason University, 2018 - present
+* Committee Chair, Intellectual Life Committee at George Mason University, 2018 - present
+* Graduate Student Representative, Graduate Studies Course Planning Committee at University of Texas at Austin, 2014
+* Assistant Instructor Representative, Graduate Student Organization at University of Texas at Austin, 2013-2014
