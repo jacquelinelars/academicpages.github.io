@@ -22,10 +22,21 @@ Education
 
 Appointments
 ======
-* Assistant Professor, Department of Modern and Classical Languages, George Mason University, Fall 2018 - Present
-* Writing Consultant, University Writing Center, University of Texas at Austin, Fall 2015
-* Assistant Instructor, Department of Spanish and Portuguese, University of Texas at Austin, Fall 2013 - Spring 2015
-* Teaching Assistant, Department of Spanish and Portuguese, University of Texas at Austin, Fall 2011- Spring 2013
+* Assistant Professor, Fall 2018 - Present
+  * Department of Modern and Classical Languages
+  * George Mason University
+* Writing Consultant
+  * University Writing Center
+  * University of Texas at Austin
+  * Fall 2015
+* Assistant Instructor
+  * Department of Spanish and Portuguese
+  * University of Texas at Austin
+  * Fall 2013 - Spring 2015
+* Teaching Assistant
+  * Department of Spanish and Portuguese
+  * University of Texas at Austin
+  * Fall 2011- Spring 2013
 
   
 Skills
@@ -37,10 +48,19 @@ Skills
 * Data Analysis
   * Python: Corpus linguistics and natural language processing
   * R: Statistical analysis
-    * Correlation and Regression - completed Datacamp course
-    * Multiple and Logistic Regression - completed Datacamp course
-    * Introduction to the Tidyverse - completed Datacamp cours
   * Praat: Phonetic analysis
+
+
+Training
+======
+* Datacamp Programming Courses
+  * Correlation and Regression, 2019
+  * Multiple and Logistic Regression, 2019
+  * Introduction to the Tidyverse, 2019
+* Data Analysis and Graphics in R Workshop, Sally Amen, University of Texas at Austin, 2015
+* Course Development Seminar, Almeida Jacqueline Toribio and Barbara Bullock, 2015
+* Corpus linguistics with R Bootcamp, Stefan Th. Gries, Georgia State University, Summer 2013
+
 
 Publications
 ======
@@ -60,9 +80,20 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Committee Member, Graduate Studies Committee at George Mason University, 2018 - present
-* Committee Chair, Intellectual Life Committee at George Mason University, 2018 - present
-* Graduate Student Representative, Graduate Studies Course Planning Committee at University of Texas at Austin, 2014
-* Assistant Instructor Representative, Graduate Student Organization at University of Texas at Austin, 2013-2014
+* Graduate Studies Committee 
+  * Committee Member 
+  * George Mason University
+  * 2018 - present
+* Intellectual Life Committee 
+  * Committee Chair
+  * George Mason University
+  * 2018 - present
+* Graduate Studies Course Planning Committee
+    * Graduate Student Representative
+    * University of Texas at Austin
+    * 2014
+* Graduate Student Organization at University of Texas at Austin
+  * Assistant Instructor Representative
+  * 2013-2014
