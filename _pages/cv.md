@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Hispanic Linguistics, University of Texas at Austin, 2017
+* Ph.D in Hispanic Linguistics from the University of Texas at Austin, 2017
   * Dissertation: Adapting Corpus and Computational Methods for Loanword Research: New Approaches to Anglicisms in Spanish, Defended April, 2017
   * Committee: Almeida Jacqueline Toribio (co-director), Barbara Bullock (co-director), Dale Koike, Katrin Erk, Stefan Gries
-* M.A. in Hispanic Linguistics, University of Texas at Austin, 2014
-* B.A. in Anthropology, Emory University, 2009
-* Study Abroad in Argentina, Universidad Torcuato Di Tella & Universidad de Buenos Aires, 2008
+* M.A. in Hispanic Linguistics from the University of Texas at Austin, 2014
+* B.A. in Anthropology from Emory University, 2009
+* Study Abroad in Argentina at Universidad Torcuato Di Tella & Universidad de Buenos Aires, 2008
 
 
 
 Appointments
 ======
-* Assistant Professor at George Mason University
-  * Fall 2018 - Present
+* **Assistant Professor** at George Mason University
   * Department of Modern and Classical Languages
-* Writing Consultant at University of Texas at Austin
+  * Fall 2018 - Present
+* **Writing Consultant** at the University of Texas at Austin
   * University Writing Center
   * Fall 2015
-* Assistant Instructor at University of Texas at Austin
+* **Assistant Instructor** at the University of Texas at Austin
   * Department of Spanish and Portuguese
   * Fall 2013 - Spring 2015
-* Teaching Assistant at University of Texas at Austin
+* **Teaching Assistant** at the University of Texas at Austin
   * Department of Spanish and Portuguese
   * Fall 2011- Spring 2013
 
