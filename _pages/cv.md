@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Hispanic Linguistics from the University of Texas at Austin, 2017
-  * Dissertation: Adapting Corpus and Computational Methods for Loanword Research: New Approaches to Anglicisms in Spanish, Defended April, 2017
-  * Committee: Almeida Jacqueline Toribio (co-director), Barbara Bullock (co-director), Dale Koike, Katrin Erk, Stefan Gries
 * M.A. in Hispanic Linguistics from the University of Texas at Austin, 2014
 * B.A. in Anthropology from Emory University, 2009
 * Study Abroad in Argentina at Universidad Torcuato Di Tella & Universidad de Buenos Aires, 2008
