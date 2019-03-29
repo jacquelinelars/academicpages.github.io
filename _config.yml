@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacqueline Serigos"
+title                    : "Jacqueline Rae Serigos"
 title_separator          : "-"
-name                     : &name "Jacqueline Serigos"
+name                     : &name "Jacqueline Rae Serigos"
 description              : &description "Assistant Professor at George Mason University"
 url                      : https://jserigos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
