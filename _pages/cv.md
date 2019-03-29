@@ -22,20 +22,17 @@ Education
 
 Appointments
 ======
-* Assistant Professor, Fall 2018 - Present
+* Assistant Professor at George Mason University
+  * Fall 2018 - Present
   * Department of Modern and Classical Languages
-  * George Mason University
-* Writing Consultant
+* Writing Consultant at University of Texas at Austin
   * University Writing Center
-  * University of Texas at Austin
   * Fall 2015
-* Assistant Instructor
+* Assistant Instructor at University of Texas at Austin
   * Department of Spanish and Portuguese
-  * University of Texas at Austin
   * Fall 2013 - Spring 2015
-* Teaching Assistant
+* Teaching Assistant at University of Texas at Austin
   * Department of Spanish and Portuguese
-  * University of Texas at Austin
   * Fall 2011- Spring 2013
 
   
@@ -94,6 +91,7 @@ Service
     * Graduate Student Representative
     * University of Texas at Austin
     * 2014
-* Graduate Student Organization at University of Texas at Austin
+* Graduate Student Organization 
   * Assistant Instructor Representative
+  * University of Texas at Austin
   * 2013-2014
